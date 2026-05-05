@@ -9,4 +9,4 @@ Topics covered: Variables, strings, typecasting, user input, string methods, str
 
 Currently on: Week 2 — Python Problem solving
 
-slowed down on my journey on day 1 of week 2 as mid terms approach
+Slowed down on my journey on day 1 of week 2 as mid terms approach
